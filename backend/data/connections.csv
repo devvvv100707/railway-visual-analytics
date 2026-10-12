@@ -1,0 +1,79 @@
+source,destination,corridor,verified
+NDLS,KOTA,Western trunk,false
+KOTA,RTM,Western trunk,false
+RTM,BRC,Western trunk,false
+BRC,ST,Western trunk,false
+ST,BCT,Western trunk,false
+NDLS,CNB,Grand Trunk (Delhi-Howrah),false
+CNB,ALD,Grand Trunk (Delhi-Howrah),false
+ALD,PNBE,Grand Trunk (Delhi-Howrah),false
+PNBE,DHN,Grand Trunk (Delhi-Howrah),false
+DHN,HWH,Grand Trunk (Delhi-Howrah),false
+NDLS,AGC,Delhi-Chennai,false
+AGC,GWL,Delhi-Chennai,false
+GWL,JHS,Delhi-Chennai,false
+JHS,BPL,Delhi-Chennai,false
+BPL,ET,Delhi-Chennai,false
+ET,NGP,Delhi-Chennai,false
+NGP,WL,Delhi-Chennai,false
+WL,BZA,Delhi-Chennai,false
+BZA,MAS,Delhi-Chennai,false
+NDLS,JP,Rajasthan,false
+JP,AII,Rajasthan,false
+AII,ADI,Rajasthan,false
+AII,UDZ,Rajasthan,false
+UDZ,ADI,Rajasthan,false
+AII,JU,Rajasthan,false
+JU,BKN,Rajasthan,false
+JP,BKN,Rajasthan,false
+JP,KOTA,Rajasthan,false
+NDLS,UMB,North,false
+UMB,ASR,North,false
+UMB,CDG,North,false
+NDLS,DDN,North,false
+NDLS,LKO,North,false
+LKO,CNB,North,false
+LKO,BSB,North,false
+BSB,ALD,North,false
+CSMT,KYN,Central,false
+KYN,PUNE,Central,false
+PUNE,SUR,Central,false
+SUR,GTL,Central,false
+GTL,KPD,Central,false
+KPD,MAS,Central,false
+KYN,BSL,Central,false
+BSL,NGP,Central,false
+NGP,R,Central,false
+R,BSP,Central,false
+BSP,HWH,Central,false
+SUR,SC,Central,false
+SC,WL,Central,false
+SC,BZA,Central,false
+SC,SBC,Central,false
+SBC,GTL,Central,false
+SBC,KPD,Central,false
+BPL,RTM,Central India,false
+ET,JBP,Central India,false
+JBP,ALD,Central India,false
+BRC,ADI,Central India,false
+MAS,TPJ,South,false
+TPJ,MDU,South,false
+MDU,TVC,South,false
+TVC,ERS,South,false
+ERS,CBE,South,false
+CBE,MAS,South,false
+CBE,SBC,South,false
+SBC,MAQ,South,false
+MAQ,ERS,South,false
+MAQ,MAO,South,false
+MAO,KYN,South,false
+HWH,BBS,East,false
+BBS,VSKP,East,false
+VSKP,BZA,East,false
+HWH,NJP,East,false
+NJP,GHY,East,false
+PNBE,NJP,East,false
+RNC,DHN,East,false
+BSP,RNC,East,false
+PNBE,BSB,East,false
+BSB,DHN,East,false
